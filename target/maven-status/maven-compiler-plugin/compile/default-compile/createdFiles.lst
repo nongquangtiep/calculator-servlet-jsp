@@ -1,1 +1,2 @@
-com\codegym\model\Customer.class
+com\codegym\calculator\Calculator.class
+com\codegym\calculator\CalculatorServlet.class
